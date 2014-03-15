@@ -2,4 +2,7 @@ node_modules
 dist
 .tmp
 .sass-cache
+.settings
+.project
+.classpath
 app/bower_components
